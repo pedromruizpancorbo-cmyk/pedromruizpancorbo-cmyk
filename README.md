@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hey! My name is Pedro, and I’m a first-year Web Application Development student at 🏫 IES Fernando III in Martos.</h2>
+<h2 align="left">👋 Hey! My name is Pedro, and I’m a first-year Web Application Development student.</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ In tech since 20XX  <br>📚 Currently learning tools to improve my workflow  <br>🎯 Goal: keep growing and contribute to meaningful projects  <br>🎲 Fun fact: I always have more browser tabs open than I should</p>
+<p align="left">📍 From Escañuela (Jaén)  <br>🏫 Studying Web Application Development at IES Fernando III de Martos  <br>💡 In tech since 2025 <br>📘 Currently learning tools to improve my workflow  <br>🚀 Goal: keep growing and contribute to meaningful projects  <br>🧩 Fun fact: I always have more browser tabs open than I should</p>
 
 ###
 
@@ -70,15 +70,12 @@
   <a href="https://www.instagram.com/pmrp_27" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="pedromruizpancorbo@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://discord.com/pmrp_24193" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/pedro-manuel-ruiz-pancorbo-504010398" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/pedromruizpancorbo-cmyk/pedromruizpancorbo-cmyk/output/snake.svg" alt="Snake animation" />
 
 ###
